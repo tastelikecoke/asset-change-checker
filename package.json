@@ -1,0 +1,10 @@
+{
+  "name": "com.tastelikecoke.assetchangechecker",
+  "displayName": "Asset Change Checker",
+  "version": "0.1",
+  "unity": "6000.0",
+  "description": "Button to refresh assets for manual asset refresh workflow.",
+  "keywords": ["checker"],
+  "dependencies": {
+  }
+}
